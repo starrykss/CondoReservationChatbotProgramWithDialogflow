@@ -32,7 +32,7 @@
 
 ### 실행 화면
 
-![Play1](Test1.png)
-
-![Play2](Test2.png)
-
+<table>
+  <th><img src="./Test1.png"></img></th>
+  <th><img src="./Test2.png"></img></th>
+</table>
