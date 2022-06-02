@@ -32,7 +32,7 @@
 
 ### 실행 화면
 
-![Play1](Test 1.png)
+![Play1](Test1.png)
 
-![Play2](Test 2.png)
+![Play2](Test2.png)
 
