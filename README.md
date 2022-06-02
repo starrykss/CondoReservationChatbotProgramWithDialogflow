@@ -1,7 +1,7 @@
 # Condo Reservation Chatbot Program With Dialogflow
 [2022-05-09 ~ 2022-06-02] Condo Reservation Chatbot Program With Google Dialogflow
 
-![Program](./Program.png)
+<img src="./Program.png", width="60%", height="60%">Program</img>
 
 ### 프로그램 제작 배경
 - 요즘 핫한 챗봇 서비스의 작동 원리를 이해하고, 간단하게 구현해보고자 프로그램을 제작하게 되었다.
